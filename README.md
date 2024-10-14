@@ -1,1 +1,1 @@
-# HMSCI
+# Hospital Management System CI
